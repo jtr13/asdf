@@ -2,3 +2,5 @@ hi from jenny on github in the browser
 
 
 hi from jenny on joyce's macbook
+
+use_github(protocol = "https", auth_token = Sys.getenv("GITHUB_PAT"))
